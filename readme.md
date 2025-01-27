@@ -59,7 +59,7 @@ Feel free to fork this repository, submit issues, or make pull requests to contr
 
 Contact
 
-If you have any questions or suggestions, feel free to open an issue or reach out at [your-email@example.com].
+If you have any questions or suggestions, feel free to open an issue or reach out at [support@graveldeluxe.com].
 
 Enjoy the ride!
 
